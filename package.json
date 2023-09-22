@@ -1,9 +1,12 @@
 {
   "name": "@majesticfudgie/asset-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "build/index.js",
   "license": "MIT",
   "types": "build",
+  "repository": {
+    "url": "https://github.com/tmfksoft/asset-downloader"
+  },
   "devDependencies": {
     "@types/node": "^20.6.3"
   },
